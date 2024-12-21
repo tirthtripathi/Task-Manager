@@ -25,6 +25,7 @@ To run this project locally:
 ## Features
 
 - Add new tasks
+- Edit task
 - Mark tasks as complete with visual indicators
 - Delete tasks
 - Filter tasks by completion status (All, Completed, Pending)
